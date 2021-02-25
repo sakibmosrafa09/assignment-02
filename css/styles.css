@@ -1,0 +1,68 @@
+
+body{
+    width: 100%;
+}
+h5{
+    color: dodgerblue;
+}
+.logo img{
+    width: 120px;
+}
+.menue ul  a{
+    text-decoration: none;
+    list-style-type: none;
+    padding-left: 20px;
+}
+.menue ul{
+    display: inline;
+}
+.div_img img{
+    
+    float: right;
+    width: 600px;   
+}
+.div_text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div_text h1{
+    font-size: 80px;
+}
+.color_to{
+    color: dodgerblue;
+}
+.top_sec h1{
+    padding-top: 80px;
+}
+.but_hv img{
+    width: 20px;
+}
+.but_hv{
+    width: 150px;
+    height: 50px;
+    border: 3px solid dodgerblue;
+    border-radius: 10px;
+}
+.but_hv :hover{
+    color: firebrick;
+}
+.top_sec{
+    height: 25%;   
+}
+.bbtn button{
+    float: right;
+    display: inline;
+}
+.bbtn h3{
+    display: inline;
+    color: dodgerblue;
+}
+.xid img{
+    width: 600px;   
+}
+.icon_img img{
+    width: 100px;
+}
+.icons_wid{
+    width: 30px;
+    padding-right: 10px;
+}
