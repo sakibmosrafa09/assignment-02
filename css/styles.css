@@ -6,7 +6,8 @@ h5{
     color: dodgerblue;
 }
 .logo img{
-    width: 120px;
+    width: 150px;
+    padding-right: 50px;
 }
 .menue ul  a{
     text-decoration: none;
